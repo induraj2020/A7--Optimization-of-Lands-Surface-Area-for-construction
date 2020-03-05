@@ -1,0 +1,4 @@
+Play with CMAX
+(c1, c2)= (2, 0.1) 
+c1 - big
+c2 - small
